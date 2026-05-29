@@ -16,6 +16,8 @@ services:
   backend:
     build:
       context: ./backend
+    volumes:
+      - ./orders:/app/orders
     environment:
       DB_HOST: db
       DB_PORT: 5432
