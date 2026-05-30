@@ -56,6 +56,11 @@ npm test
 
 <img width="521" height="364" alt="изображение" src="https://github.com/user-attachments/assets/cba5f205-f612-44b6-905e-6e4f7824ed15" />
 
+Пройденные тесты:
+
+<img width="389" height="190" alt="изображение" src="https://github.com/user-attachments/assets/e3b56d67-b340-4bcf-91ff-8438fecced1a" />
+
+
 Json-файл при оформлении товара:
 
 <img width="521" height="228" alt="изображение" src="https://github.com/user-attachments/assets/135f8b1e-9ac9-4f0f-9d88-eea98fe6c63b" />
