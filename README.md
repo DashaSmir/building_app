@@ -39,4 +39,20 @@ npm run build
 npm test
 ```
 Все команды выполняются из корня проекта
+
+## Блок-схема
+<img width="989" height="1000" alt="блок-схема" src="https://github.com/user-attachments/assets/3e4916df-c226-453a-8e7e-db7fcc61673c" />
+
 ## Внешний вид приложения
+Выбор региона:
+<img width="369" height="114" alt="изображение" src="https://github.com/user-attachments/assets/b62e3291-3165-4a75-9112-54493661fd8b" />
+
+Выбор товара:
+<img width="473" height="204" alt="изображение" src="https://github.com/user-attachments/assets/ba849d8e-e6dc-4602-9c5c-b65546dd0adf" />
+
+Отказ от заявки, предложение скидки/самого дешевого товара:
+<img width="521" height="364" alt="изображение" src="https://github.com/user-attachments/assets/cba5f205-f612-44b6-905e-6e4f7824ed15" />
+
+Json-файл при оформлении товара:
+<img width="521" height="228" alt="изображение" src="https://github.com/user-attachments/assets/135f8b1e-9ac9-4f0f-9d88-eea98fe6c63b" />
+
