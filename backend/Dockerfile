@@ -1,7 +1,7 @@
 FROM node:18-alpine
 WORKDIR /app
 COPY package*.json ./
-RUN npm ci --only=production
+RUN npm ci
 COPY src/ ./src/
 COPY init.sql /docker-entrypoint-initdb.d/
 RUN mkdir -p /app/orders && chown -R node:node /app/orders

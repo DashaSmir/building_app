@@ -2,7 +2,7 @@
   "name": "building-app-materials",
   "scripts": {
     "start": "docker compose up -d db && docker compose run --rm backend",
-    "test": "cd backend && npm test",
+    "test": "docker compose run --rm backend npm test",
     "build": "docker compose build backend",
     "stop": "docker compose down"
   }
